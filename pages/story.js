@@ -68,7 +68,6 @@ class Story extends React.Component {
                 .story-details a {
                     color: #f60;
                 }
-                
                 `}</style>
             </Layout>    
         )
