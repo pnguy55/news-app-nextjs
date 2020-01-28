@@ -69,7 +69,7 @@ class Story extends React.Component {
                     color: #f60;
                 }
                 `}</style>
-            </Layout>    
+            </Layout> 
         )
     }
 }
