@@ -1,0 +1,15 @@
+{
+    "name": "Hacker Next",
+    "short_name": "hacker-next",
+    "lang": "en-US",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#f60",
+    "icons": [
+      {
+        "src": "/static/icons/hn.jfif",
+        "sizes": "512x512",
+        "type": "image/jfif"
+      }
+    ]
+  }
